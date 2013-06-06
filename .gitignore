@@ -1,0 +1,12 @@
+*.un~
+*~
+.*.s[a-w][a-z]
+.AppleDouble
+.DS_Store
+.LSOverride
+.Spotlight-V100
+.Trashes
+._*
+.netrwhist
+Icon
+Session.vim
