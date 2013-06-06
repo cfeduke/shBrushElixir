@@ -19,3 +19,16 @@ Alternatively:
 
     $ cd $SYNTAXHIGHLIGHTER_DIR/scripts
     $ curl -O https://raw.github.com/cfeduke/shBrushElixir/master/shBrushElixir.js
+
+
+# Usage
+
+Like all brushes, include it in your HTML page similar to:
+
+    <script type="text/javascript" src="/syntaxhighlighter/scripts/shBrushElixir.js"></script>
+
+Then it can be used with one of three aliases:
+
+    <pre class="brush: elixir;">
+    <pre class="brush: ex;">
+    <pre class="brush: exs;">
